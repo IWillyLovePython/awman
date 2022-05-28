@@ -1,7 +1,7 @@
 # Cool Script
 ## Script:  
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IWillyLovePython/roblox/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IWillyLovePython/awman/main/main.lua"))()
 ```
 
 ## Game:
