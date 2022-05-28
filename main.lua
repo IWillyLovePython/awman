@@ -2,7 +2,7 @@
 --Dreamer#5114
 --https://github.com/OriginalAlien
 --https://github.com/IWillyLovePython/roblox/README.md
---loadstring(game:HttpGet("https://raw.githubusercontent.com/IWillyLovePython/roblox/main/main.lua"))()
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/IWillyLovePython/awman/main/main.lua"))()
 
 local colors = {
     SchemeColor = Color3.fromRGB(128 ,0 , 128),
